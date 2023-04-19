@@ -26,6 +26,6 @@ Eu sou o Johny Santos e sou um Programador Fronte-end e Utilizo as ferramentas:
 
 <a href="https://instagram.com/johnyysantoss?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 
-
-
 [![Anurag's johny stats](https://github-readme-stats.vercel.app/api?username=johnysantos22)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnysantos22&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

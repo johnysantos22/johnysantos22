@@ -20,6 +20,9 @@ Eu sou o Johny Santos e sou um Programador Fronte-end e Utilizo as ferramentas:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
  
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NODE-E34F26?style=for-the-badge&logo=node&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REACT-E34F26?style=for-the-badge&logo=react&logoColor=white"/>
+
 
 ### Contato
  <a href="https://wa.me/message/SVFAVTALTZKLL1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Eu sou o Johny Santos e sou um Programador Fronte-end e Utilizo as ferramentas:
+Olá! Muito prazer, sou Johny Santos, um entusiasta do desenvolvimento web e programador front-end com uma paixão ardente por criar interfaces web impressionantes e funcionais. Minha jornada profissional tem sido marcada por uma busca constante por inovação, aprimoramento de habilidades e uma dedicação incansável à criação de soluções únicas.
 	
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 

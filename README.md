@@ -27,7 +27,7 @@ Olá! Muito prazer, sou Johny Santos, um entusiasta do desenvolvimento web e pro
 ### Contato
  <a href="https://wa.me/message/SVFAVTALTZKLL1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
 
-<a href="https://instagram.com/johnyysantoss?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="https://instagram.com/johnyysantoss/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 
 [![Anurag's johny stats](https://github-readme-stats.vercel.app/api?username=johnysantos22)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -20,9 +20,9 @@ Olá! Muito prazer, sou Johny Santos, um entusiasta do desenvolvimento web e pro
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
  
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NODE.JS-E34F26?style=for-the-badge&logo=nodejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NODE.JS-?style=for-the-badge&logo=nodejs&logoColor=white"/>
   <img src="https://img.shields.io/badge/REACT-E34F26?style=for-the-badge&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TYPE SCRIPT-E34F26?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TYPE SCRIPT-?style=for-the-badge&logo=react&logoColor=white"/>
 
 
 ### Contato

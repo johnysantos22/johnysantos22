@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá! Muito prazer, sou Johny Santos, um entusiasta do desenvolvimento web e programador front-end com uma paixão ardente por criar interfaces web impressionantes e funcionais. Minha jornada profissional tem sido marcada por uma busca constante por inovação, aprimoramento de habilidades e uma dedicação incansável à criação de soluções únicas.
+Olá! Muito prazer, sou Johny Santos, engenheiro de software com uma paixão intensa por desenvolver soluções web inovadoras e funcionais. Ao longo da minha trajetória, venho aprimorando constantemente minhas habilidades técnicas em tecnologias como ReactJS, Vite, JavaScript, Node.js, PostgreSQL, MongoDB, TailwindCSS e Styled Components.
+
+Sou movido pela busca contínua pela excelência e inovação no desenvolvimento de aplicações web, criando experiências únicas, responsivas e de alta performance. Com uma sólida base em engenharia de software e foco em boas práticas de código, me dedico a entregar soluções que agregam valor real aos projetos em que atuo.
+
+Minha jornada profissional é marcada pela curiosidade, pelo aprimoramento constante e pela vontade de transformar ideias em produtos digitais de impacto.
 	
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

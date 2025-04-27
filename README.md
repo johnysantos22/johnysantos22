@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá! Muito prazer, sou Johny Santos, engenheiro de software com uma paixão intensa por desenvolver soluções web inovadoras e funcionais. Ao longo da minha trajetória, venho aprimorando constantemente minhas habilidades técnicas em tecnologias como ReactJS, Vite, JavaScript, Node.js, PostgreSQL, MongoDB, TailwindCSS e Styled Components.
+Olá! Muito prazer, sou Johny Santos, Engenheiro de Software com uma paixão intensa por desenvolver soluções web inovadoras e funcionais. Ao longo da minha trajetória, venho aprimorando constantemente minhas habilidades técnicas em tecnologias como ReactJS, Vite, JavaScript, Node.js, PostgreSQL, MongoDB, TailwindCSS e Styled Components.
 
 Sou movido pela busca contínua pela excelência e inovação no desenvolvimento de aplicações web, criando experiências únicas, responsivas e de alta performance. Com uma sólida base em engenharia de software e foco em boas práticas de código, me dedico a entregar soluções que agregam valor real aos projetos em que atuo.
 

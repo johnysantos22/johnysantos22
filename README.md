@@ -1,44 +1,42 @@
-### Hi there 👋
+# Olá! 👋 Sou o Johny Santos
 
-<!--
-**johnysantos22/johnysantos22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Engenharia de Software | Desenvolvedor Web**
 
-Here are some ideas to get you started:
+Sou um desenvolvedor movido pela busca contínua por excelência e inovação no desenvolvimento de aplicações. Em processo de transição de carreira e cursando Engenharia de Software, venho combinando uma sólida base teórica com muita aplicação prática. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Olá! Muito prazer, sou Johny Santos, Engenheiro de Software com uma paixão intensa por desenvolver soluções web inovadoras e funcionais. Ao longo da minha trajetória, venho aprimorando constantemente minhas habilidades técnicas em tecnologias como ReactJS, Vite, JavaScript, Node.js, PostgreSQL, MongoDB, TailwindCSS e Styled Components.
+Meu foco é criar experiências únicas, responsivas e de alta performance, prezando sempre por boas práticas de código e arquitetura de sistemas. Minha jornada é marcada pela curiosidade, pela evolução constante e pela vontade de transformar ideias em produtos digitais de impacto real.
 
-Sou movido pela busca contínua pela excelência e inovação no desenvolvimento de aplicações web, criando experiências únicas, responsivas e de alta performance. Com uma sólida base em engenharia de software e foco em boas práticas de código, me dedico a entregar soluções que agregam valor real aos projetos em que atuo.
+---
 
-Minha jornada profissional é marcada pela curiosidade, pelo aprimoramento constante e pela vontade de transformar ideias em produtos digitais de impacto.
-	
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-### Contato
- 
-<div> 
-  <a href="https://instagram.com/johnyysantoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "johny_cosmo@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/johny-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+### 🛠️ Tecnologias e Ferramentas
 
-[![Anurag's johny stats](https://github-readme-stats.vercel.app/api?username=johnysantos22)](https://github.com/anuraghazra/github-readme-stats)
+**Front-end:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnysantos22&layout=compact)
+**Back-end & Banco de Dados:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Infraestrutura & Metodologias Ágeis:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+
+---
+
+### 💻 Projetos em Destaque
+
+* **Sistema de Agendamento - Studio Fernanda Nayara:** Desenvolvimento de um sistema web para gestão de horários e controle de atendimentos.
+* **Website Institucional - RD Service:** Criação da presença digital corporativa para uma empresa de soluções elétricas, automação e aquecimento solar.
+* **Portfólio - Filho Bichológico Boutique:** Desenvolvimento de uma vitrine digital focada na experiência do usuário para uma boutique pet.
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DO_SEU_LINKEDIN_AQUI)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)

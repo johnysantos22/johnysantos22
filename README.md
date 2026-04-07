@@ -21,6 +21,8 @@ Meu foco é criar experiências únicas, responsivas e de alta performance, prez
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Infraestrutura & Metodologias Ágeis:**
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=agile&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-22CA71?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -38,5 +40,5 @@ Meu foco é criar experiências únicas, responsivas e de alta performance, prez
 
 ### 📫 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/johny-santos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johny-santos/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johny_cosmo@outlook.com)

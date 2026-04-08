@@ -1,6 +1,6 @@
 # Olá! 👋 Sou o Johny Santos
 
-**Estudante de Engenharia de Software | Desenvolvedor Web**
+**Estudante de Engenharia de Software | Desenvolvedor Full Stack**
 
 Sou um desenvolvedor movido pela busca contínua por excelência e inovação no desenvolvimento de aplicações. Em processo de transição de carreira e cursando Engenharia de Software, venho combinando uma sólida base teórica com muita aplicação prática. 
 

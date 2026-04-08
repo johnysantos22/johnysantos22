@@ -34,7 +34,6 @@ Meu foco é criar experiências únicas, responsivas e de alta performance, prez
 
 * **Sistema de Agendamento - Studio Fernanda Nayara:** Desenvolvimento de um sistema web para gestão de horários e controle de atendimentos.
 * **Website Institucional - RD Service:** Criação da presença digital corporativa para uma empresa de soluções elétricas, automação e aquecimento solar.
-* **Portfólio - Filho Bichológico Boutique:** Desenvolvimento de uma vitrine digital focada na experiência do usuário para uma boutique pet.
 
 ---
 
